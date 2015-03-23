@@ -1,1 +1,1 @@
-## Laravel Starter
+## Laravel Starter kit
